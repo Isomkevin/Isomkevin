@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Kevin Isom  @Isomkevin  </h1>
+<h1 align="center">Hi 👋, I'm Kevin Isom</h1>
+<h3 align="center">@Isomkevin</h3>
 <h3 align="center">A passionate FullStack developer from Kenya</h3>
 
 <p align="center">
@@ -19,23 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">📫 Reach me at <strong>kevinisomcode1000@gmail.com</strong>
 
-<p align="center">⚡ Fun fact: <strong>I start local, think global</strong>
+<p align="center">⚡ Fun fact: <strong>I like to start local, think global</strong>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://codepen.io/kevinisom900" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/kevin-isom-a58bb3201" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://codesandbox.com/isomkevin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@kevinisom9000" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -71,4 +57,21 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isomkevin" alt="GitHub Streak" />
+</p>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://codepen.io/kevinisom900" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/kevin-isom-a58bb3201" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://codesandbox.com/isomkevin" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@kevinisom9000" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
 </p>
