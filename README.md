@@ -1,9 +1,9 @@
 # 🚀 Kevin Isom | Full-Stack Architect & Innovation Catalyst
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Kenya+🇰🇪;Founder+%40+LESOM+Dynamics;Building+Tomorrow's+Tech+Today)](https://git.io/typing-svg)
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%7C+Kenya+🇰🇪;Founder+%40+LESOM+Dynamics;Building+Tomorrow%27s+Tech+Today)](https://git.io/typing-svg)
-<br /> <br />
 ![Profile Views](https://komarev.com/ghpvc/?username=isomkevin&label=Profile%20Views&color=00d9ff&style=for-the-badge&logo=github)
 [![GitHub followers](https://img.shields.io/github/followers/isomkevin?logo=github&style=for-the-badge&color=00d9ff&labelColor=1a1a1a)](https://github.com/isomkevin)
 
