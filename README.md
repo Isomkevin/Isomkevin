@@ -1,4 +1,4 @@
-# 🚀 Kevin Isom | Full-Stack Architect & Innovation Catalyst
+# 🚀 Kevin Isom | Full-Stack Architect, Venture Studio Builder & Innovation Catalyst
 
 <div align="center">
 
@@ -17,11 +17,11 @@
 const kevin = {
     location: "Nairobi, Kenya 🇰🇪",
     company: "LESOM Dynamics (Founder)",
-    currentFocus: ["Rust", "AI/ML", "Blockchain", "Cloud Architecture"],
+    currentFocus: ["Tech Business Development","Rust", "AI/ML", "Blockchain", "Cloud Architecture"],
     philosophy: "Start Local, Think Global 🌍",
     code: ["JavaScript", "Python", "TypeScript", "Rust"],
     architecture: ["Microservices", "Event-Driven", "Serverless"],
-    databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+    databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase", "SupaBase"],
     currentlyLearning: "Advanced AI & Blockchain Integration",
     askMeAbout: ["React", "Node.js", "Python", "System Design"],
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
