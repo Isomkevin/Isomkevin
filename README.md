@@ -1,4 +1,5 @@
-# 🚀 Kevin Isom | Full-Stack Architect, Venture Studio Builder & Innovation Catalyst
+#                     🚀 Kevin Isom
+# Full-Stack Architect, Venture Studio Builder & Innovation Catalyst
 
 <div align="center">
 
